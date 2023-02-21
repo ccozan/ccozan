@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ccozan
-- 👀 I’m interested in Computer programming and Cyber Security.
-- 🌱 I’m currently learning Java Full Stack AWS
+- 👀 I’m interested in Cyber Security.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
